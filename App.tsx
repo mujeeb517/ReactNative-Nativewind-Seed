@@ -5,7 +5,7 @@ import "./global.css"
 export default function App() {
   return (
     <View className="flex-1 items-center justify-center bg-black">
-      <Text className="text-red-200">Futuristik Lagos- Home</Text>
+      <Text className="text-red-200">Hello World</Text>
     </View>
   );
 }
